@@ -18,3 +18,6 @@ c) Quadrado dos números naturais de `0 a 6`. Próximo numero seria `7² = 49`. 
 d) Quadrado dos números pares. Próximo numero seria `10² = 100`. \
 e) Sequencia de Fibonacci. Próximo numero seria `13`.\
 f) Os quadros últimos números se repetem, então acredito que seja `20`.
+
+5) 
+<p> Ligaria um interruptor e deixaria ele ligado por alguns minutos e depois desligaria. Ligaria o proximo interruptor e iria para as salas de lampadas. A que estive ligada, seria o do interrupr ligado. A que estive aquecida seria do primeiro interuptor ligado e a ultima seria a do desligado. </p>
